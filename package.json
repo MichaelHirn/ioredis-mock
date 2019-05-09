@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/stipsan/ioredis-mock/issues"
   },
+  "version": "0.1.0",
   "main": "./lib",
   "files": [
     "example.js",
@@ -45,6 +46,7 @@
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
+    "babel-core": "^6.26.3",
     "babel-eslint": "10.0.1",
     "babel-preset-env": "1.7.0",
     "babel-register": "6.26.0",
